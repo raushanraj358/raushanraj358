@@ -1,6 +1,3 @@
-
-
--->
 <h1 align="center">Hi 👋, I'm Raushan Raj aka Yaduvanshi Raushan</h1>
 <h3 align="center">I am a final year undergraduate student at Indian Institute of Institute of Information Technology Allahabad. </h3>
 
