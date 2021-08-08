@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/Raushan_Speaks" target="blank"><img src="https://img.shields.io/twitter/follow/Raushan_Speaks?logo=twitter&style=for-the-badge" alt="Raushan_Speaks" /></a> </p>
 
-- 🔭 I’m currently working on **Cricket Shots Classification using Deep Learning(using SVM-CNN and Softmax-CNN)**
 
 - 📫 How to reach me **raushandto358@gmail.com**
 - 😄 Pronouns: He/him/his
