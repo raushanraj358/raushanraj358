@@ -5,7 +5,7 @@
 
 
 - 📫 How to reach me **raushandto358@gmail.com**
-- 😄 Pronouns: He/him/his
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Guess what ? I'm a cricket enthusiast and a die hard fan of <a href = "https://en.wikipedia.org/wiki/Rohit_Sharma"> Rohit Sharma . </a>
 
 
