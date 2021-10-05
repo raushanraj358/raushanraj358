@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raushan Raj aka Yaduvanshi Raushan</h1>
 <h3 align="center">I am a final year undergraduate student at Indian Institute of Institute of Information Technology Allahabad. </h3>
 
-<p align="left"> <a href="https://twitter.com/Raushan_Speaks" target="blank"><img src="https://img.shields.io/twitter/follow/Raushan_Speaks?logo=twitter&style=for-the-badge" alt="Raushan_Speaks" /></a> </p>
+
 
 
 - 📫 How to reach me **raushandto358@gmail.com**
