@@ -1,7 +1,21 @@
 <h1 align="center">Hi 👋, I'm Raushan Raj aka Yaduvanshi Raushan</h1>
 <h3 align="center">I am a final year undergraduate student at Indian Institute of Institute of Information Technology Allahabad. </h3>
 
+<p align="center">
+  <a href="https://github.com/raushanraj358"><img src="https://readme-typing-svg.herokuapp.com?lines=IT++Student;Engineer+in+the+making;DS%20|%20Algo%20|%20Web+Dev%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
+<hr>
+
+<p align="center"> <img src="https://gpvc.arturio.dev/raushanraj358" alt="raushanraj358" /> </p>
+
+<br>
+
+<p align="center">
+<img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+</p>
+
+<br><br>
 
 
 - 📫 How to reach me **raushandto358@gmail.com**
