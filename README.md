@@ -36,6 +36,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raushanraj358&show_icons=true&locale=en&layout=compact" alt="raushanraj358" /></p>
 
-## 🐱My Github stats:
+
 ![Raushan's github stats](https://github-readme-stats.vercel.app/api?username=raushanraj358&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"]) 
 
