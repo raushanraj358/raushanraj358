@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raushan Raj aka Yaduvanshi Raushan</h1>
-<h3 align="center">I am a final year undergraduate student at Indian Institute of Institute of Information Technology Allahabad. </h3>
-
+<!-- <h3 align="center">I am a final year undergraduate student at Indian Institute of Institute of Information Technology Allahabad. </h3>
+ -->
 <p align="center">
-  <a href="https://github.com/raushanraj358"><img src="https://readme-typing-svg.herokuapp.com?lines=I + am + a + final year  + undergraduate student + at + Indian Institute of Institute of Information Technology Allahabad;Engineer+in+the+making;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/raushanraj358"><img src="https://readme-typing-svg.herokuapp.com?lines=I ++ am + a + final year  + undergraduate student + at + Indian Institute of Institute of Information Technology Allahabad;Engineer+in+the+making;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <hr>
