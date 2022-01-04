@@ -2,7 +2,7 @@
 <!-- <h3 align="center">I am a final year undergraduate student at Indian Institute of Institute of Information Technology Allahabad. </h3>
  -->
 <p align="center">
-  <a href="https://github.com/raushanraj358"><img src="https://readme-typing-svg.herokuapp.com?lines=Incoming+Software+Engineer+@+UKG+Inc.;Final%20Year%20Student%20@%20IIIT Allahabad&center=true&width=500&height=50"></a>
+  <a href="https://github.com/raushanraj358"><img src="https://readme-typing-svg.herokuapp.com?lines=Incoming+Software+Engineer+@+UKG+Inc.;Final%20Year%20Student%20@%20IIIT%20Allahabad&center=true&width=500&height=50"></a>
 </p>
 <hr>
 
