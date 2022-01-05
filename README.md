@@ -6,8 +6,8 @@
 </p>
 <hr>
 
-<p align="center"> <img src="https://gpvc.arturio.dev/raushanraj358" alt="raushanraj358" /> </p>
-
+<!-- <p align="center"> <img src="https://gpvc.arturio.dev/raushanraj358" alt="raushanraj358" /> </p>
+ -->
 <br>
 
 <!-- <p align="center">
