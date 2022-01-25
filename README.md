@@ -18,7 +18,7 @@
 
 
 - 📫 How to reach me: **raushandto358@gmail.com**
-- Read my interview experience <a href = "https://iamraushan.medium.com/ukg-on-campus-interview-experience-for-software-engineer-820f05cfe67f"> here . </a>
+- Read my interview experience <a href = "https://link.medium.com/ZJyHTKX15mb"> here . </a>
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Guess what ? I'm a cricket enthusiast and a die hard fan of <a href = "https://en.wikipedia.org/wiki/Rohit_Sharma"> Rohit Sharma . </a>
